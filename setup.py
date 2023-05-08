@@ -19,7 +19,9 @@ setup(
         # Add classifiers describing your package, e.g.:
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
-        "Deep learning framework :: Torch :: >= 1.9.0"
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+
     ],
 )
