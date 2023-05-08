@@ -22,4 +22,4 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Deep learning framework :: Torch :: >= 1.9.0"
     ],
-
+)
