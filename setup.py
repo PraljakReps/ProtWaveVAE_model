@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="ProtWave-VAE",
-    version="0.0.0",
+    name="ProtWave_VAE",
+    version="0.0.2",
     packages=find_packages(),
     install_requires=[
         # List your package dependencies here, e.g.:
